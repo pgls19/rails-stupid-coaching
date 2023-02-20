@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ .question {
+  color: grey;
+  background-color: aliceblue;
+ }
